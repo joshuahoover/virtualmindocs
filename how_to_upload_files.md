@@ -51,11 +51,10 @@ The following steps cover configuring a site in Filezilla and uploading a file t
    _Logon Type:_ Select _Ask for password_ (so your password is not stored in clear text on the computer)
 
    _User:_ Enter the username for the Virtualmin user of the site you want to upload files for
+
 ![Setup a new site in Filezilla](tutorials/upload_file/filezilla_site_manager_site_configured_cropped.png "Setup a new site in Filezilla")
 
-1. Click the _Connect_ button
-
-(If you're prompted to accept the SSH key from the host, click the _OK_ button)
+1. Click the _Connect_ button (If you're prompted to accept the SSH key from the host, click the _OK_ button)
 
 1. Enter the password for the user you entered previously
 ![Enter the password for the site at the Filezilla prompt](tutorials/upload_file/filezilla_password_prompt_cropped.png "Enter the password for the site at the Filezilla prompt")
