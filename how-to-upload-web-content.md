@@ -73,7 +73,7 @@ The following steps cover configuring a site in Filezilla and uploading a file t
 
 1. If your file takes a while to upload, you will see its progress in the bottom Filezilla panel
 
-![Connect and upload a file via SFTP in Filezilla to a Virtualmin website](tutorial/upload-file/upload-file_to_virtualmin_site_via_filezilla_sftp.gif "Connect and upload a file via SFTP in Filezilla to a Virtualmin website")
+![Connect and upload a file via SFTP in Filezilla to a Virtualmin website](tutorial/upload-file/upload_file_to_virtualmin_site_via_filezilla_sftp.gif "Connect and upload a file via SFTP in Filezilla to a Virtualmin website")
 
 ## SSH/SCP
 Sometimes you want to upload files via a command line interface. You can do this using SCP, which is the secure way to copy files over SSH. Below are instructions for using SCP on Windows, Mac and Linux.
