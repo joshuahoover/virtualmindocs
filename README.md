@@ -1,2 +1,0 @@
-# virtualmindocs
-Virtualmin articles/documentation
