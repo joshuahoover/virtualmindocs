@@ -37,7 +37,7 @@ The following steps cover configuring a site in Filezilla and uploading a file t
 1. Open Filezilla on your computer
 
 1. Click *File > Site Manager*
-![Filezilla: Open > Site Manager](tutorial/upload-file/file_manager_file_uploaded_and_listed.png "Filezilla: Open > Site Manager")
+![Filezilla: Open > Site Manager](tutorial/upload-file/filezilla_file_site_manager_cropped.png "Filezilla: Open > Site Manager")
 
 1. Click the _New Site_ button
 ![Create a new site in Filezilla Site Manager](tutorial/upload-file/filezilla_site_manager_new_site_cropped.png "Create a new site in Filezilla Site Manager")
